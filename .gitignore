@@ -1,5 +1,5 @@
 # Object file
 *.o
 
-# Ada Library Information
+# python Library Information
 *.ali
